@@ -2,7 +2,7 @@
 
 🎓 Computer Engineering @ **UFRJ** · Rio de Janeiro, Brazil
 🔬 Undergraduate researcher @ **Experimental Software Engineering Group, UFRJ**
-🎯 Looking for **Software / AI / ML / Data Engineering** or **Software Quality** roles
+🎯 Looking towards **Software / AI / ML / Data Engineering** or **Software Quality**
 where shipping and rigorous evaluation matter as much as modeling.
 
 I build software end-to-end with a foundation in **Empirical Software
